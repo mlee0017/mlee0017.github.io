@@ -1,0 +1,57 @@
+body {
+  background: grey;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+span{
+  color: lightblue;
+}
+*{
+  background: grey;
+  font-family: helvetica;
+}
+
+#money{
+  color: maroon;
+}
+
+form{
+  margin: 10px;
+}
+
+table{
+  padding: 20px;
+  letter-spacing: .5em;
+  width: 100%;
+  border: 1px solid;
+  
+}
+
+#name{
+  text-transform: underline;
+}
+
+#last{
+  color: dark blue;
+}
+
+p{
+  font-size: 12px;
+  letter-spacing: .1em;
+  padding: 12px;
+}
+
+.div2{
+  padding: 12px;
+  text-transform: uppercase;
+}
+
+div.static {
+  position: static;
+}
+
+div.relative{
+  padding: 10px;
+}
